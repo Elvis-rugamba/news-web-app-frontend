@@ -1,0 +1,19 @@
+{
+  "name": "news-web-app-frontend",
+  "version": "1.0.0",
+  "description": "News and media web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "news-web-app"
+  },
+  "keywords": [
+    "News",
+    "Media"
+  ],
+  "author": "Elvis Rugamba",
+  "license": "ISC"
+}
